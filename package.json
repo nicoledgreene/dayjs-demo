@@ -1,0 +1,22 @@
+{
+  "name": "dayjs-demo",
+  "version": "1.0.0",
+  "description": "A dayjs demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoledgreene/dayjs-demo.git"
+  },
+  "author": "Nicole Greene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoledgreene/dayjs-demo/issues"
+  },
+  "homepage": "https://github.com/nicoledgreene/dayjs-demo#readme",
+  "dependencies": {
+    "dayjs": "^1.11.6"
+  }
+}
